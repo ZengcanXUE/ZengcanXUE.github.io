@@ -251,7 +251,7 @@ ul.address-text b {
 .about-left {
       padding: 4.5em 0 4.7em 0;
     float: right;
-    background: #FFF;
+    background: #E8E8E8;
 }
 .about-left-grid ul li a {
        padding: 0.6em 2em;
@@ -278,7 +278,7 @@ ul.address-text b {
 	    float: left;
 	padding:0;
 	background:url(../images/ww1.jpg) no-repeat 0px 0px;
-	min-height:650px;
+	min-height:550px;
 	background-size: cover;
    -o-background-size: cover;
    -webkit-background-size: cover;
