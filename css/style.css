@@ -197,7 +197,7 @@ ul.address li {
 ul.address li ul.address-text li {
     display: inline-block;
     font-size: 1em;
-    color: #fff;
+    color: #A020F0;
     margin-top: 1em;
 	font-weight: 400;
 }
@@ -205,7 +205,7 @@ ul.address li ul.address-text li:nth-child(1){
 	width: 20%;
 }
 ul.address li ul.address-text li a {
-    color: #fff;
+    color: #A020F0;
 	text-decoration:none;
 }
 ul.address li ul.address-text li a:hover{
