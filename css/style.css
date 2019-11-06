@@ -205,7 +205,7 @@ ul.address li ul.address-text li:nth-child(1){
 	width: 20%;
 }
 ul.address li ul.address-text li a {
-    color: #fff;
+    color: #f71b1b;
 	text-decoration:none;
 }
 ul.address li ul.address-text li a:hover{
@@ -278,7 +278,7 @@ ul.address-text b {
 	    float: left;
 	padding:0;
 	background:url(../images/ww1.jpg) no-repeat 0px 0px;
-	min-height:550px;
+	min-height:590px;
 	background-size: cover;
    -o-background-size: cover;
    -webkit-background-size: cover;
