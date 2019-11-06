@@ -83,7 +83,7 @@ body h1,h2,h3,h4,h5,h6{
 	display:inline-block;
 }
 .navigation-right ul li a{
-	color:#fff;
+	color:#000000;
     font-size:1em;
     text-decoration: none;
     padding: 10px 0;
@@ -91,7 +91,7 @@ body h1,h2,h3,h4,h5,h6{
     font-family: 'Open Sans', sans-serif;
 }
 .navigation-right ul li.active a{
-	    color: #00a78e;
+	    color: #000000;
 }
 
 .link-effect-3 a {
