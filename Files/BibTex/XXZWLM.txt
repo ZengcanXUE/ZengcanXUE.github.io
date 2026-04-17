@@ -1,0 +1,13 @@
+@article{薛增灿2026基于多模态特征融合网络的专递课堂教学行为识别模型,
+  author = {薛增灿 and 熊芳庆 and 郑佳佳 and 王均毅 and 林桐 and 穆肃},
+  title = {基于多模态特征融合网络的专递课堂教学行为识别模型},
+  journal = {华南师范大学学报(自然科学版)},
+  year = {2026},
+  volume = {58},
+  number = {01},
+  pages = {23--34},
+  keywords = {教学行为识别;深度学习;多模态数据;专递课堂},
+  issn = {1000-5463},
+  language = {中文},
+  url = {https://kns.cnki.net/kcms2/article/abstract?v=kMXxFLy7TFVpOsi0dl47UrtReJe5cEpfqKWUc8olYjPu0yO-52FPlySSw6yPNg9GjnEy7ctezlVc4DohII5BM6a_gYgN0RF6hxFPNJ-trIlFb5hn1np1fTxeSeVVGIA1LltiCwhk3bFNx6aFu-smeGDZV1zKe4cUFxGIU0ANR5V5t5Cqjy7ECw==&uniplatform=NZKPT&language=CHS}
+}
